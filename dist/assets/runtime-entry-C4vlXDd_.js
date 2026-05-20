@@ -7895,7 +7895,7 @@ const Ed = (e) => {
     target: "config",
     path: "local",
     name: "Local",
-    component: /* @__PURE__ */ yc(() => import("./index-CkFJh-zt.js"))
+    component: /* @__PURE__ */ yc(() => import("./index-J_ULZs1z.js"))
   }), e.registerSearchProvider({
     source: "local-launcher",
     async search(t) {
