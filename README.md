@@ -3,9 +3,9 @@
 Official installable plugin package for Snippets Code.
 
 - Plugin ID: `local-launcher`
-- Version: `2.0.32`
+- Version: `2.0.33`
 - Source: `plugin-registry/packages/local-launcher`
-- App compatibility: `>=2.1.54`
+- App compatibility: `>=2.1.61`
 
 Install URL:
 
@@ -16,7 +16,7 @@ https://github.com/GigaPuddings/snippets-code-plugin-local-launcher/archive/refs
 Versioned release URL:
 
 ```text
-https://github.com/GigaPuddings/snippets-code-plugin-local-launcher/archive/refs/tags/2.0.32.zip
+https://github.com/GigaPuddings/snippets-code-plugin-local-launcher/archive/refs/tags/2.0.33.zip
 ```
 
 This repository is synchronized from the main application repository by
